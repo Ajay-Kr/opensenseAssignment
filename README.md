@@ -1,4 +1,4 @@
-## opensenseAssignment
+# opensenseAssignment
 **Problem 1:** You are given a sorted array containing both negative and positive values. Resort the array taking the absolute value of negative numbers.
             Ex. A = {-7,-5,-3,-1,3,6,9}
             Output: {-1,-3,3,-5,6,-7,9}
@@ -16,4 +16,4 @@
               0 <= A[i] <= 15 
 **Solution:** File: Problem_2.txt
  
- **__All answers are solved using php.__**
+ **_All answers are solved using php._**
